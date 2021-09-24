@@ -12,6 +12,9 @@ If you encounter any problems, please open an issue or feel free to contact us:
 
 [Tianyi Zhang](https://https://tianyi-zhang.github.io): PhD student and now an assistant professor at Purdue; tianyi@purdue.edu
 
+[Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/): Professor at UCLA CS; guyvdb@cs.ucla.edu 
+
+[Miryung Kim](http://web.cs.ucla.edu/~miryung/): Professor at UCLA CS; miryung@cs.ucla.edu
 
 ## How to cite 
 Please refer to our ICSE'19 paper, [Active Inductive Logic Programming for Code Search
