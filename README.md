@@ -45,6 +45,6 @@ If you want to try our eclipse plugin, use the VM available [here](https://ucla.
 ## Installation
 ALICE requires ubuntu 14.04 with yap 6.3.3 and Eclipse LUNA.
 
-### ALICE Artifact Evaluation and Tutorial 
+### ALICE Walkthrough Tutorial 
 
 The experiments we ran for the paper along with a walkthrough tutorial can be be found [here](https://ucla.box.com/s/hiqhjq3qdocnkqme7bo0fqrckkupfp2h)
